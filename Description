@@ -1,0 +1,2 @@
+Basic Implementation of Simple Linear Iterative CLustering on an image to generate superpixels.
+This distinguishes the crack and hence will be able to dectect it by applying labelling. 
